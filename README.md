@@ -1,7 +1,7 @@
 # Computer-Vision-Art-Program-C/C++
 A multi-option Art Program using OpenCV. Object Tracking and Identifying. Abstract Art with contours. Posting it public because it is open to be improved and developed. Some possibilities are noted in README.
 
-Targeted for Windows Platform. Require OPENCV 3.3.0 (or possibly greater) and debug in x64 to run the program.
+Targeted for Windows Platform. Require OPENCV 3.3.0 (or possibly greater), bvlc_googlenet.caffemodel (inside the latest dnn module in OpenCV) and debug in x64 to run the program.
 
 OpenCV:
 
