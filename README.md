@@ -1,6 +1,8 @@
 # Computer-Vision-Art-Program-C/C++
 A multi-option Art Program using OpenCV. Object Tracking and Identifying. Abstract Art with contours. Posting it public because it is open to be improved and developed. Some possibilities are noted in README.
 
+Targeted for Windows Platform. Require OPENCV 3.3.0 (or possibly greater) and debug in x64 to run the program.
+
 OpenCV:
 
 The main tool being used in this project is OpenCV.  This is a software that is an open source library for computer vision with over 2500 different algorithms, assisting in building strong infrastructure for various applications. The latest update (OpenCV >= 3.3.0) contains DNN modules that use the Caffe Deep Learning framework, which allows easy accessibility to develop or create programs. Many of the tutorials available online and in the OpenCV library for detecting and tracking objects are based on a given image/video file. We want our program to use a live feed such as the default webcam with proper speed and efficiency and also let the user play around with the live feed.
